@@ -5,4 +5,5 @@ Minecraft is something I'm really passionated about and work with a lot!
 Unity games are also one of my favorite things to work on.
 
 
-![DataLion's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDataLion&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheDataLion)](https://git.io/streak-stats)
+
